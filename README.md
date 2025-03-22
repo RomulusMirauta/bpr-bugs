@@ -1,15 +1,27 @@
-# Welcome! <br> <br> This is a  centralized repository of INFO, MODS, PATCHES and TOOLS for the game `Burnout` `Paradise` `Remastered` *`(PC version)`* <br>
-
+<div align="center">
+    <h1>🏁 Welcome racers! 🏁</h1>
+</div>
 
 <br>
 
+# This is a  centralized repository of INFO, MODS, PATCHES and TOOLS for the game `Burnout` `Paradise` `Remastered` *`(PC version)`* <br>
+
+<br><br>
+
+<a href="https://raw.githubusercontent.com/RomulusMirauta/Burnout-Paradise-Remastered/refs/heads/main/Burnout_Paradise_Remastered_Splash_Art.jpg">
+  <img align="center"
+    src="https://raw.githubusercontent.com/RomulusMirauta/Burnout-Paradise-Remastered/refs/heads/main/Burnout_Paradise_Remastered_Splash_Art.jpg"
+    alt="Burnout_Paradise_Remastered_Splash_Art" />
+</a>
+
+<br><br>
 
 ## Table of Contents
-I.   [**Useful Links**](https://github.com/RomulusMirauta/bpr-bugs#useful-links) <br>
-II.  [**Base for MODs** ***(Prerequisite)***](https://github.com/RomulusMirauta/bpr-bugs#useful-links) <br>
-III. [**My addition: MOD Uninstaller Script**](https://github.com/RomulusMirauta/bpr-bugs#useful-links) <br>
-IV.  [**MODs and associated content**](https://github.com/RomulusMirauta/bpr-bugs#useful-links) <br>
-V.   [**Disclaimer**](https://github.com/RomulusMirauta/bpr-bugs#useful-links) <br>
+I.   [**Useful Links**](https://github.com/RomulusMirauta/bpr-bugs?tab=readme-ov-file#i-useful-links) <br>
+II.  [**Base for MODs** ***(Prerequisite)***](https://github.com/RomulusMirauta/bpr-bugs?tab=readme-ov-file#ii-base-for-mods-prerequisite) <br>
+III. [**My addition: MOD Uninstaller Script**](https://github.com/RomulusMirauta/bpr-bugs?tab=readme-ov-file#iii-my-addition-mod-uninstaller-script) <br>
+IV.  [**MODs and associated content**](https://github.com/RomulusMirauta/bpr-bugs?tab=readme-ov-file#iv-mods-and-associated-content) <br>
+V.   [**Disclaimer**](https://github.com/RomulusMirauta/bpr-bugs?tab=readme-ov-file#v-disclaimer) <br>
 
 <br>
 
