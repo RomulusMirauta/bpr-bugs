@@ -1,14 +1,7 @@
-# Welcome! <br> <br> This is a  centralized repository of INFO, MODS, PATCHES and TOOLS for the `PC version` of the game **`Burnout Paradise Remastered`**. 
-
-<br><br><br><br>
-
 # Welcome! <br> <br> This is a  centralized repository of INFO, MODS, PATCHES and TOOLS for the game `Burnout Paradise Remastered` *`(PC version)`* <br>
 
 
-# Burnout Paradise Remastered *(PC version)* <br>
-
-
-<br><hr><br>
+<br>
 
 
 ## Table of Contents
